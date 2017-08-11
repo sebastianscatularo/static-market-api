@@ -2,6 +2,10 @@
   "clean_urls": true,
   "https_only": true,
   "error_page": "errors/error.json",
+  "routes": {
+    "/*.html": "index.html",
+    "/products": "/products.json"
+  },
   "headers": {
     "**.json": {
       "Content-Type": "application/json"
