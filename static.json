@@ -1,7 +1,7 @@
 {
   "clean_urls": true,
   "https_only": true,
-  "error_page": "public_html/errors/error.json",
+  "error_page": "errors/error.json",
   "headers": {
     "/**": {
       "Content-Type": "application/json"
