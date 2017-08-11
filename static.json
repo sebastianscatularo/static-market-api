@@ -1,0 +1,9 @@
+{
+  "clean_urls": true,
+  "https_only": true,
+  "headers": {
+    "/**": {
+      "Content-Type": "application/json"
+    }
+  }
+}
