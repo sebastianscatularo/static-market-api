@@ -3,7 +3,7 @@
   "https_only": true,
   "error_page": "errors/error.json",
   "headers": {
-    "/**": {
+    "**.json": {
       "Content-Type": "application/json"
     }
   }
