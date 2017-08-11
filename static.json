@@ -4,7 +4,7 @@
   "error_page": "errors/error.json",
   "routes": {
     "/*.html": "index.html",
-    "/products": "/products.json"
+    "/products/": "/products.json"
   },
   "headers": {
     "**.json": {
