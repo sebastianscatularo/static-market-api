@@ -1,6 +1,8 @@
 {
   "id": 3,
-  "name":"Fideos",
-  "tumbl":"images/3.png",
-  "quantity":"2"
+  "name":"Arroz",
+  "tumbl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbERwCMtrnhWyVd7-TkLTLQb6g3RITZm6BlS91dbOXdK0-pyTGWA",
+  "promotion": "yes",
+  "quantity":"12",
+  "description": "Sin Promocion"
 }
