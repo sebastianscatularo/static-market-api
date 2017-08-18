@@ -1,6 +1,8 @@
 {
-  "id": 1,
-  "name":"Arroz",
-  "tumbl":"images/1.png",
-  "quantity":"2"
+  "id": 2,
+  "name":"Cebolla",
+  "tumbl":"http://www.beevoz.com/wp-content/uploads/2014/05/La-cebolla-un-ingrediente-indispensable-598x598.jpg",
+  "promotion": "yes",
+  "quantity":"100",
+  "description": "Sin Promocion"
 }
