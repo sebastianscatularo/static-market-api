@@ -1,22 +1,48 @@
 [{
   "id": 1,
-  "name":"Fideos",
+  "name":"Fideos libre de gluten",
   "tumbl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUnL3-QUvDq6CbZaRBTV9ZJtwmfI7lflt687xA81E9Pxo_XpX9",
   "promotion": "yes",
   "quantity":"2",
-  "description": "Elaborado por monjes misioneros"
+  "description": "En promocion"
 },
 {
   "id": 2,
   "name":"Cebolla",
   "tumbl":"http://www.beevoz.com/wp-content/uploads/2014/05/La-cebolla-un-ingrediente-indispensable-598x598.jpg",
-  "promotion": "no",
-  "quantity":"Cebolla 100% organica"
+  "promotion": "yes",
+  "quantity":"100",
+  "description": "Sin Promocion"
 },
 {
   "id": 3,
   "name":"Arroz",
   "tumbl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbERwCMtrnhWyVd7-TkLTLQb6g3RITZm6BlS91dbOXdK0-pyTGWA",
   "promotion": "yes",
-  "quantity":"Elaborado por hippies"
+  "quantity":"12",
+  "description": "Sin Promocion"
+},
+{
+  "id": 4,
+  "name":"Harina integral",
+  "tumbl":"http://static.ellahoy.es/845x500/www/ellahoy/es/img/harina-de-trigo-integral.jpg",
+  "promotion": "no",
+  "quantity":"11",
+  "description": "En Promocion"
+},
+{
+  "id": 5,
+  "name":"Harina de algarroba",
+  "tumbl":"http://blogs.infobae.com/alimentacion-consciente/files/2013/10/harina-de-algarrona.jpg",
+  "promotion": "yes",
+  "quantity":"2",
+  "description": "En Promocion"
+},
+{
+  "id": 6,
+  "name":"Edulcorante Stevia",
+  "tumbl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTleREi6qWKd7_EfxcBFOHjsmP6PJv87kY2tzqDO4R0tQUoTwZt",
+  "promotion": "no",
+  "quantity":"666",
+  "description": "En Promocion"
 }]
