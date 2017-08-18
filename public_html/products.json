@@ -1,18 +1,22 @@
 [{
   "id": 1,
-  "name":"Arroz",
-  "tumbl":"images/1.png",
-  "quantity":"2"
+  "name":"Fideos",
+  "tumbl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUnL3-QUvDq6CbZaRBTV9ZJtwmfI7lflt687xA81E9Pxo_XpX9",
+  "promotion": "yes",
+  "quantity":"2",
+  "description": "Elaborado por monjes misioneros"
 },
 {
   "id": 2,
   "name":"Cebolla",
-  "tumbl":"images/2.png",
-  "quantity":"2"
+  "tumbl":"http://www.beevoz.com/wp-content/uploads/2014/05/La-cebolla-un-ingrediente-indispensable-598x598.jpg",
+  "promotion": "no",
+  "quantity":"Cebolla 100% organica"
 },
 {
   "id": 3,
-  "name":"Fideos",
-  "tumbl":"images/3.png",
-  "quantity":"2"
+  "name":"Arroz",
+  "tumbl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbERwCMtrnhWyVd7-TkLTLQb6g3RITZm6BlS91dbOXdK0-pyTGWA",
+  "promotion": "yes",
+  "quantity":"Elaborado por hippies"
 }]
