@@ -12,7 +12,8 @@
   "tumbl":"http://www.beevoz.com/wp-content/uploads/2014/05/La-cebolla-un-ingrediente-indispensable-598x598.jpg",
   "promotion": "yes",
   "quantity":"100",
-  "description": "En Promocion"
+  "description": "En Promocion",
+  "price": "15,00"
 },
 {
   "id": 3,
@@ -20,7 +21,8 @@
   "tumbl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbERwCMtrnhWyVd7-TkLTLQb6g3RITZm6BlS91dbOXdK0-pyTGWA",
   "promotion": "yes",
   "quantity":"12",
-  "description": "Sin Promocion"
+  "description": "Primera calidad",
+  "price": "13,00"
 },
 {
   "id": 4,
@@ -28,7 +30,8 @@
   "tumbl":"http://static.ellahoy.es/845x500/www/ellahoy/es/img/harina-de-trigo-integral.jpg",
   "promotion": "no",
   "quantity":"11",
-  "description": "En Promocion"
+  "description": "Libre de agroquimicos, de la agricultura Familiar. Harina rica en minerales y vitaminas del Grupo B",
+  "price": "74,99"
 },
 {
   "id": 5,
@@ -36,13 +39,15 @@
   "tumbl":"http://blogs.infobae.com/alimentacion-consciente/files/2013/10/harina-de-algarrona.jpg",
   "promotion": "yes",
   "quantity":"2",
-  "description": "En Promocion"
+  "description": "Calidad Premium. Origen: Salta",
+  "price": "49,99"
 },
 {
   "id": 6,
   "name":"Edulcorante Stevia",
   "tumbl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTleREi6qWKd7_EfxcBFOHjsmP6PJv87kY2tzqDO4R0tQUoTwZt",
   "promotion": "no",
-  "quantity":"666",
-  "description": "En Promocion"
+  "quantity":"56",
+  "description": "Producto sin gluten, Puede ser utilizada por personas con diabetes ya que no es metabolizada por el organismo.",
+  "price": "44,99"
 }]
