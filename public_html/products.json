@@ -4,7 +4,8 @@
   "tumbl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUnL3-QUvDq6CbZaRBTV9ZJtwmfI7lflt687xA81E9Pxo_XpX9",
   "promotion": "yes",
   "quantity":"2",
-  "description": "En promocion"
+  "description": "2x1",
+  "price": "24,99"
 },
 {
   "id": 2,
@@ -12,7 +13,7 @@
   "tumbl":"http://www.beevoz.com/wp-content/uploads/2014/05/La-cebolla-un-ingrediente-indispensable-598x598.jpg",
   "promotion": "yes",
   "quantity":"100",
-  "description": "En Promocion",
+  "description": "Organica. Sin Pesticidas",
   "price": "15,00"
 },
 {
